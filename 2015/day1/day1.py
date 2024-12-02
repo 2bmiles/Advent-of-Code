@@ -20,4 +20,5 @@ def part_2():
         if floor < 0:
             return i + 1
 
+print(part_1())
 print(part_2())
